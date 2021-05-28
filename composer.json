@@ -1,0 +1,13 @@
+{
+    "name": "elsheref/wss",
+    "description": "build noification service",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hatem-elsheref",
+            "email": "hatem_mohamed_elsheref@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
